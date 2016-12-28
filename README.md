@@ -12,7 +12,7 @@
 ###After download information: 
 <img src="https://cloud.githubusercontent.com/assets/17574275/21521423/20b219a2-ccfd-11e6-9fd9-686772879c4c.png"/>
 
-###While downloading information:
+###While downloading file:
 <img src="https://cloud.githubusercontent.com/assets/17574275/21521500/c33e1a54-ccfd-11e6-8177-b522dc49fbd5.png"/>
 
 ###Download success:
