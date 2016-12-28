@@ -24,11 +24,11 @@
 <div style="float: left; overflow: hidden;">
 
 <div>
-When you run application for first time:
+<p>When you run application for first time:</p>
 <img src="https://cloud.githubusercontent.com/assets/17574275/21521162/b4c28a58-ccfa-11e6-8658-4df1bcf8ead9.png" style="margin: 5px;overflow: hidden;"/>     
 </div>
 <div>
-After download information:
+<p>After download information:</p>
 <img src="https://cloud.githubusercontent.com/assets/17574275/21521423/20b219a2-ccfd-11e6-9fd9-686772879c4c.png"/>   
 </div>
 
@@ -38,11 +38,11 @@ After download information:
 <div style="float: right; overflow: hidden;">
 
 <div>
-While downloading information: 
+<p>While downloading information: </p>
 <img src="https://cloud.githubusercontent.com/assets/17574275/21521500/c33e1a54-ccfd-11e6-8177-b522dc49fbd5.png"/>    
 </div>
 <div>
-Download success:
+<p>Download success:</p>
 <img src="https://cloud.githubusercontent.com/assets/17574275/21521540/3b4d2116-ccfe-11e6-996f-50de17b23d79.png"/>   
 </div>
 
