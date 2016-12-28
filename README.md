@@ -1,6 +1,8 @@
 #Lab2
 ##Project 2 for Android Labs in PSW Biala Podlaska
 
+##Minimum SDK: API 23, Android 6.0
+
 ###Application download information about file like size and type. App can also download file, to do these operations app use url.
 
 
