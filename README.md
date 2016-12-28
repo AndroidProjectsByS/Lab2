@@ -21,7 +21,7 @@
 
 <div style="overflow: hidden;">
 
-<div style="float: left; overflow: hidden;">
+<div style="float: left; overflow: hidden; display: inline-block;">
 
 <div>
 <p>When you run application for first time:</p>
@@ -35,7 +35,7 @@
 </div>
 
 
-<div style="float: right; overflow: hidden;">
+<div style="float: right; overflow: hidden;display: inline-block;">
 
 <div>
 <p>While downloading information: </p>
